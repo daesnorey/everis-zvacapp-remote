@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>331521798277-06a7pnq8s9vponpe4roljs8jafeecep5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.331521798277-06a7pnq8s9vponpe4roljs8jafeecep5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDo22IVSSiQgitRhijWg8MqE0LeLJb5nG0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>331521798277</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.everis.zurich.agro.Prueba</string>
+	<key>PROJECT_ID</key>
+	<string>notification-73935</string>
+	<key>STORAGE_BUCKET</key>
+	<string>notification-73935.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:331521798277:ios:d80658f5ffeecb8b8a39ec</string>
+</dict>
+</plist>
